@@ -3,3 +3,4 @@ puts "Qual é o seu nome?";
 nome = gets;
 
 puts "Começaremos o jogo para você, #{nome}"
+

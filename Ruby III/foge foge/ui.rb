@@ -12,3 +12,7 @@ def pede_movimento
     puts 'para onde deseja ir?'
     movimento = gets.strip
 end
+
+def game_over
+    puts 'Cabo pra você'
+end

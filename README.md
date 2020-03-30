@@ -6,3 +6,4 @@ Formação de Ruby através da Alura.
   * Lógica da programação na linguagem Ruby.
 * Ruby II = Ruby II: Continuando seus primeiros passos na programação
   * Aprendendo mais sobre a linguagem.
+* Ruby III = Ruby III: Mais lógica de programação em um novo jogo

@@ -7,3 +7,5 @@ Formação de Ruby através da Alura.
 * Ruby II = Ruby II: Continuando seus primeiros passos na programação
   * Aprendendo mais sobre a linguagem.
 * Ruby III = Ruby III: Mais lógica de programação em um novo jogo
+* Ruby-POO = Orientação a Objetos: Melhores técnicas com Ruby
+  * Fundamentos de Programação Orientada a Objetos em Ruby.
